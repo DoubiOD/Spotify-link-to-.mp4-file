@@ -2,11 +2,10 @@
 
 # Usage
 
-Place the 'getNoise.bat' to desktop and open it.
-
-or
-
-`python spotify_link_to_m4a.py <spotify_track_link>`
+1. Get your spotify API access [here](https://developer.spotify.com/documentation/web-api/tutorials/getting-started#request-an-access-token)
+2. Use API credentials in the script:
+`client_id, client_secret = 'client_id', 'client_secret'`
+3. Place the 'getNoise.bat' to desktop and open it or `python spotify_link_to_m4a.py <spotify_track_link>`
 
 # Install
 
